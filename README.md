@@ -25,7 +25,13 @@ http://127.0.0.1:8000/authors-ui
 http://127.0.0.1:8000/books
 ```
 
----
+## Screenshots
+
+### Authors Page
+![Authors](screenshots/authors.png)
+
+### Books Page
+![Books](screenshots/Books.png)
 
 ## Database Configuration
 
