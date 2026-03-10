@@ -3,20 +3,6 @@
 A Laravel application to manage **Authors** and their **Books** with full CRUD functionality.  
 Each Author can have multiple Books. The project demonstrates Laravel relationships, validation, and error handling.
 
----
-
-## Features
-
-- Author CRUD (Create, Read, Update, Delete)
-- Book CRUD
-- One-to-Many relationship (Author → Books)
-- Request validation
-- Try–catch error handling
-- Bootstrap UI for testing
-- Seeder with sample authors
-
----
-
 ## Setup Instructions
 
 Clone the repository and run the following commands:
@@ -52,7 +38,7 @@ DB_PASSWORD=
 ```
 
 Create the database manually in MySQL.
-
+table name = authors and books
 ---
 
 ## Author Routes
@@ -97,11 +83,3 @@ The seeder inserts some famous authors for testing:
 - Agatha Christie
 
 These appear automatically in the **Book Author dropdown**.
-
----
-
-## Author
-
-Pritikumari  
-Laravel Developer Assignment  
-Location: Bengaluru, India
